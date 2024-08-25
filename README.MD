@@ -5,4 +5,4 @@
 2. [_Tailwind_](https://tailwindcss.com/docs/installation)
 3. [_Netlify_](https://www.netlify.com/) (For Deploy)
 ## Live Page
-[_Bike Dekho_](#)
+[_Bike Dekho_](https://nutdevilbikerzonelandingpage.netlify.app)
