@@ -9,7 +9,9 @@ module.exports = {
       }
     },
     fontFamily: {
-      'poppins': ['Poppins', 'sans-serif']
+      'poppins': ['Poppins', 'sans-serif'],
+      'inter': ['Inter Tigh', 'sans-serif'],
+      'manrope': ['Manrope', 'sans-serif'],
     }
   },
   plugins: [
